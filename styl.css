@@ -1,0 +1,32 @@
+html{ background-color: rgb(255, 234, 0);
+  
+}
+.heading{
+    
+   width: 100%; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 234, 0);
+   padding: 30px;
+   height: 100%;
+}
+
+.description{
+    background-color: cyan;
+    font-family: fantasy;
+    padding: 30px;
+    width: 25%;
+    margin-left: 37.5%;
+}
+.button{
+    border:10px solid rgb(77, 145, 174);
+    margin: 30px;
+border: 50px 25px;
+width: 25%;
+margin-left: 37.5%;
+
+}
+div{
+    text-align: center;
+    margin: 30px;
+}
+
